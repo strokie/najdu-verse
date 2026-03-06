@@ -200,6 +200,16 @@ nav {
     display: inline-block;
 }
 
+.section-subtitle {
+    font-size: 1.5rem;
+    color: var(--accent-blue);
+    margin-top: -20px;
+    margin-bottom: 40px;
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
 .section-title::after {
     content: '';
     position: absolute;
